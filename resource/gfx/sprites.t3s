@@ -1,0 +1,4 @@
+--atlas -f rgba8888 -z auto
+back_00.png
+back_01.png
+message.png
